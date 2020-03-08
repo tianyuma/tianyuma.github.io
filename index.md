@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the personal page of Tianyuma 
 
 You can use the [editor on GitHub](https://github.com/tianyuma/tianyuma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
