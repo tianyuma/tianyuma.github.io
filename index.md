@@ -1,19 +1,15 @@
 ## Welcome to the personal page of Tianyuma 
 
-You can use the [editor on GitHub](https://github.com/tianyuma/tianyuma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am graduated in Tianjin University and got Ph.D in Power Machine and Engineering in Jan 2020.
+Being a post doctor in the institute of applied physics and computational mathmatics in Beijing, I am working on the modeling and analyzing of droplet impact phenomenon.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+### A Brief in troduction of education background
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
 # This is a priviate Web for test
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -28,10 +24,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tianyuma/tianyuma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+email: tianyuma@tju.edu.cn 
